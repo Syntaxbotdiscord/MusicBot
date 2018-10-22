@@ -1,6 +1,6 @@
-token=NTAzOTMyOTg4MTIwMzY3MTE0.Dq9z2Q.SD2Y1ZD8rpWtGmi37AZI9pb7C-0
+token=NDg3NjgxOTk4NTA5NDQxMDI1.DnRT9g.2nOUNAchbSfdJ5ni0Ex1C7aFb38
 owner=300306052610523136
 prefix=m
-game=
+game=.
 stayinchannel=true
-songinstatus=false
+songinstatus=true
