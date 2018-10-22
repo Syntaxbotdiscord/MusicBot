@@ -1,6 +1,6 @@
 token=process.env.token
 owner=300306052610523136
-prefix=-
-game=EmeraldTeam
+prefix=m
+game=
 stayinchannel=true
 songinstatus=false
