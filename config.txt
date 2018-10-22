@@ -1,6 +1,6 @@
-token=NDg3NjgxOTk4NTA5NDQxMDI1.DnRT9g.2nOUNAchbSfdJ5ni0Ex1C7aFb38
-owner=259750207321931777
+token=NTAzOTMyOTg4MTIwMzY3MTE0.Dq9s1A.74MVlSOzEQcTBBbrRkmWonLERhc
+owner=300306052610523136
 prefix=-
 game=EmeraldTeam
 stayinchannel=true
-songinstatus=true
+songinstatus=false
